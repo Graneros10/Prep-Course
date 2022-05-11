@@ -1,0 +1,10 @@
+VARIABLE: una variable es un valor, o una forma de poder almacenar algo, como un dato, una palabra o un numero, que no sera definitivo, que puede ir cambiando en cualquier momento, y esta variable nos permite poder utilizar ese algo que almacena en cualquier momento.
+STRING: una STRING es la forma de decirle a JAVA SCRIPT que lo que estamos ingresando al codigo de programacion es una letra o palabra, o un texto.
+FUNCIONES: una funcion es la posibilidad que nos da JAVA SCRIPT de crear un micro-programa dentro del programa que estamos construyendo, para que luego en cualquier momento podamos llamar o usar ese programa para poder hacer o conseguir algo para lo que se le ha programado.
+-Argumento: el argumento es un valor o variable que le damos a la funcion que estamos creando para que la funcion pueda usarlo para poder cumplir con la tarea para la cual la hemos ccreado.
+-Return: la declaracion Return, es un orden que le damos a la funcion que hemos creado, para que, luego de haber cumplido con la tarea que le dijimos, nos devuelva ese resultado de una marnera especifica que necesitamos.
+Declaracion "if": la declaracion if es un funcion que ya esta guardada de fabrica en JAVA SCRIPT, es decir, no fue necesario que nosotros la creasemos, ya venia incorporado. Por lo tanto tiene las mismas caracterisricas que las funciones que se explicaron en el punto anterior. Esta funcion esta configurada para que nos de dos respuestas a una pregunta o comparacion que le demos.
+VALORES BOOLEANOS: son un tipo especifico de valores que ya vienen incorporados en JAVA SCRIPT que significan nada mas que dos respuestas: "TRUE", que es "VERDADERO"; y "FLASE", que es "FALSO".
+
+Documento redactado por "Angel Graneros"
+User GitHub: Graneros10
